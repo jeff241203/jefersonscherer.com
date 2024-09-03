@@ -1,0 +1,22 @@
+
+.menu{background: darkcyan;
+border: 1px solid white;
+padding: 50px;
+color: darkcyan;}
+
+.texto,h1,h2{border: 1px solid black;
+    padding: 50px;
+    background-color: lightblue;}
+
+.menu,h1,h2,.texto{text-align: center;
+margin: 0px;}
+
+h1{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 50px;}
+
+h2{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 35px;}
+
+img{display: block;
+margin: 0 auto;
+max-width: 100%;}
